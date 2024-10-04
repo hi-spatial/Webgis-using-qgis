@@ -1,0 +1,1 @@
+var json_titikpusat_8 = {"type":"FeatureCollection","name":"titikpusat_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[110.446203285650299,-7.541273681331366]}}]}
